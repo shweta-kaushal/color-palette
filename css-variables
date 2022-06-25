@@ -1,0 +1,109 @@
+/* Outpost color palette */
+
+/* Primary */
+--Primary-0: #f2f2ff;
+--Primary-100: #efebff;
+--Primary-200: #d7ceff;
+--Primary-300: #beb3ff;
+--Primary-400: #a297ff;
+--Primary-500: #7f7aff;
+--Primary-600: #6864d4;
+--Primary-700: #5754ae;
+--Primary-800: #464287;
+--Primary-900: #393568;
+
+/* Secondary */
+--Secondary-0: #ffeef8;
+--Secondary-100: #fedbf0;
+--Secondary-200: #f9b3dd;
+--Secondary-300: #f692ce;
+--Secondary-400: #ec6cb9;
+--Secondary-500: #ea4aaa;
+--Secondary-600: #d03592;
+--Secondary-700: #b93a86;
+--Secondary-800: #99306f;
+--Secondary-900: #6d224f;
+
+/* Critical */
+--Critical-0: #ffeef0;
+--Critical-100: #ffdce0;
+--Critical-200: #fdaeb7;
+--Critical-300: #f97583;
+--Critical-400: #ea4a5a;
+--Critical-500: #d73a49;
+--Critical-600: #cb2431;
+--Critical-700: #b31d28;
+--Critical-800: #9e1c23;
+--Critical-900: #86181d;
+
+/* Warning */
+--Warning-0: #fffbe6;
+--Warning-100: #fff1b8;
+--Warning-200: #ffe58f;
+--Warning-300: #ffd666;
+--Warning-400: #ffc53d;
+--Warning-500: #faad14;
+--Warning-600: #d48806;
+--Warning-700: #ad6800;
+--Warning-800: #874d00;
+--Warning-900: #613400;
+
+/* Success */
+--Success-0: #f6ffed;
+--Success-100: #d9f7be;
+--Success-200: #b7eb8f;
+--Success-300: #95de64;
+--Success-400: #73d13d;
+--Success-500: #52c41a;
+--Success-600: #389e0d;
+--Success-700: #237804;
+--Success-800: #135200;
+--Success-900: #092b00;
+
+/* Orange */
+--Orange-0: #fff8f2;
+--Orange-100: #ffebda;
+--Orange-200: #ffd1ac;
+--Orange-300: #ffab70;
+--Orange-400: #fb8532;
+--Orange-500: #f66a0a;
+--Orange-600: #e36209;
+--Orange-700: #d15704;
+--Orange-800: #c24e00;
+--Orange-900: #a04100;
+
+/* Blue */
+--Blue-0: #f1f8ff;
+--Blue-100: #dbedff;
+--Blue-200: #c8e1ff;
+--Blue-300: #79b8ff;
+--Blue-400: #2188ff;
+--Blue-500: #0366d6;
+--Blue-600: #005cc5;
+--Blue-700: #044289;
+--Blue-800: #032f62;
+--Blue-900: #05264c;
+
+/* Teal */
+--Teal-0: #f0fdfa;
+--Teal-100: #ccfbf1;
+--Teal-200: #99f6e4;
+--Teal-300: #5eead4;
+--Teal-400: #2dd4bf;
+--Teal-500: #14b8a6;
+--Teal-600: #0d9488;
+--Teal-700: #0f766e;
+--Teal-800: #115e59;
+--Teal-900: #134e4a;
+
+/* Gray */
+--Gray-0: #e1e1e1;
+--Gray-100: #c3c3c3;
+--Gray-200: #a7a7a7;
+--Gray-300: #8b8b8b;
+--Gray-400: #707070;
+--Gray-500: #565656;
+--Gray-600: #3e3e3e;
+--Gray-700: #272727;
+--Gray-800: #121212;
+--Gray-900: #020202;
